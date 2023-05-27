@@ -1,4 +1,5 @@
 ## ❗❗❗ PLEASE NOTICE ❗❗❗ This package is not longer maintained, plaease use alternatives like `react-native-safe-area-context`
+## ❗❗❗ PLEASE NOTICE ❗❗❗ This fork is made in order to support projects already using the package
 
 [![npm version](https://badge.fury.io/js/react-native-iphone-x-helper.svg)](https://badge.fury.io/js/react-native-iphone-x-helper)
 
