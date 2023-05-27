@@ -112,5 +112,20 @@ export default StyleSheet.create({
 });
 ```
 
+### isDynamicIsland ###
+
+**returns** the device whether contains the dynamic island. Specifically, 14 Pro 和 14 Pro Max by now
+
+#### Example ####
+```js
+import { isDynamicIsland } from 'react-native-iphone-x-helper'
+// ...
+if (isDynamicIsland()) {
+    // do this...
+} else {
+    // do that...
+}
+```
+
 ## Licence ##
 **MIT**
